@@ -30,8 +30,11 @@ def LIVECATS():
         addDir('LIVE EVENTS',BASE+'liveevents'+CAT,3,art+'live.png')
         
 def VODCATS():
-        addDir('KIDS',BASE,6,art+'kids.png')
-        addDir('POPULAR',BASE,7,art+'kids.png')
+        addDir('MOVIES',BASE,7,art+'MOVIESv.png')
+        addDir('POPULAR',BASE,7,art+'POPULARv.png')
+        addDir('TV SHOWS',BASE,7,art+'TVSHOWSv.png')
+        addDir('KIDS',BASE,6,art+'KIDSv.png')
+        addDir('COMEDY',BASE,7,art+'COMEDYv.png')
       
 def KIDS():
         addDir('PEPPA PIG',BASE2+'peppa'+CAT,3,'http://goo.gl/p9pakK')

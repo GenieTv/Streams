@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.GenieTv_Streams" name="GenieTv Streams" version="1.0.0" provider-name="Architects@Work">
+<addon id="plugin.video.GenieTv_Streams" name="GenieTv Streams" version="1.0.1" provider-name="Architects@Work">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="2.1.2"/>
